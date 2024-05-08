@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
+published: false #Removes page from website
 ---
 
 ## Locations of key files/directories
