@@ -9,6 +9,8 @@ author_profile: true
   * PRIN GRAFIA (Geometry of RAndom FIelds and Applications)\\
     *Scuola Normale Superiore di Pisa* (Jun 2025)\\
     [Conference](https://sites.google.com/unimib.it/prin2022grafia/conference)
+  * Stochastic Processes Seminar\\
+    *University of Melbourne* (Jul 2024)
   * Webinar on Stochastic Analysis\\
     *Beijing Institute of Technology* (Jun 2024)\\
     [Seminar series](https://math.bit.edu.cn/xsbg/5d6f3f77f0e247d8a2068492ff3b5e5d.htm)
