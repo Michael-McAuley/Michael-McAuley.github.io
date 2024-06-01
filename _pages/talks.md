@@ -14,11 +14,12 @@ author_profile: true
   * Webinar on Stochastic Analysis\\
     *Beijing Institute of Technology* (Jun 2024)\\
     [Seminar series](https://math.bit.edu.cn/xsbg/5d6f3f77f0e247d8a2068492ff3b5e5d.htm)
+  
+
+## Delivered
   * International Conference on Applied Mathematics\\
     *City University of Hong Kong* (May 2024)\\
     [Conference](https://www.cityu.edu.hk/rcms/icam2024/programme.html), [Slides](/files/2024_05_Hong_Kong.pdf)
-
-## Delivered
   * DPhil viva\\
     *University of Oxford* (Jun 2020)\\
     [Slides](/files/2020_06_Viva.pdf)
