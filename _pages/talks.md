@@ -13,7 +13,7 @@ author_profile: true
     *University of Melbourne* (Jul 2024)
   * Webinar on Stochastic Analysis\\
     *Beijing Institute of Technology* (Jun 2024)\\
-    [Seminar series](https://math.bit.edu.cn/xsbg/5d6f3f77f0e247d8a2068492ff3b5e5d.htm)
+    [Seminar series](https://math.bit.edu.cn/xsbg/5d6f3f77f0e247d8a2068492ff3b5e5d.htm), [Slides](/files/2024_06_Beijing.pdf)
   
 
 ## Delivered
