@@ -9,8 +9,15 @@ author_profile: true
   * PRIN GRAFIA (Geometry of RAndom FIelds and Applications)\\
     *Scuola Normale Superiore di Pisa* (Jun 2025)\\
     [Conference](https://sites.google.com/unimib.it/prin2022grafia/conference)
+  * Workshop: Stochastic Geometry in Action\\
+    *University of Bath* (Sep 2024)\\
+    [Worshop webpage](https://sites.google.com/view/stochasticgeometryinaction/)
+  * IMS annual meeting 2024\\
+    *Queen's University Belfast* (Aug 2024)\\
+    [Meeting webpage](http://ims2024.martinmathieu.net/)
   * Stochastic Processes Seminar\\
-    *University of Melbourne* (Jul 2024)
+    *University of Melbourne* (Jul 2024)\\
+    [Seminar series](https://ms.unimelb.edu.au/research/stochastic-processes/seminars), [Slides](/files/2024_07_Melbourne.pdf)
   
 
 ## Delivered
