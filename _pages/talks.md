@@ -20,12 +20,12 @@ author_profile: true
   * IMS annual meeting 2024\\
     *Queen's University Belfast* (Aug 2024)\\
     [Meeting webpage](http://ims2024.martinmathieu.net/)
-  * Stochastic Processes Seminar\\
-    *University of Melbourne* (Jul 2024)\\
-    [Seminar series](https://ms.unimelb.edu.au/research/stochastic-processes/seminars), [Slides](/files/2024_07_Melbourne.pdf)
   
 
 ## Delivered
+  * Stochastic Processes Seminar\\
+    *University of Melbourne* (Jul 2024)\\
+    [Seminar series](https://ms.unimelb.edu.au/research/stochastic-processes/seminars), [Slides](/files/2024_07_Melbourne.pdf)
   * Webinar on Stochastic Analysis\\
     *Beijing Institute of Technology* (Jun 2024)\\
     [Seminar series](https://math.bit.edu.cn/xsbg/5d6f3f77f0e247d8a2068492ff3b5e5d.htm), [Slides](/files/2024_06_Beijing.pdf)
