@@ -19,7 +19,7 @@ author_profile: true
     [Worshop webpage](https://sites.google.com/view/stochasticgeometryinaction/)
   * IMS annual meeting 2024\\
     *Queen's University Belfast* (Aug 2024)\\
-    [Meeting webpage](http://ims2024.martinmathieu.net/)
+    [Meeting webpage](http://ims2024.martinmathieu.net/), [Slides](/files/2024_08_Belfast.pdf)
   
 
 ## Delivered
