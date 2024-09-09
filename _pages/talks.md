@@ -16,7 +16,7 @@ author_profile: true
     *University of Durham* (Oct 2024)
   * Workshop: Stochastic Geometry in Action\\
     *University of Bath* (Sep 2024)\\
-    [Worshop webpage](https://sites.google.com/view/stochasticgeometryinaction/), [SLides](/files/2024_09_Bath.pdf)
+    [Worshop webpage](https://sites.google.com/view/stochasticgeometryinaction/), [Slides](/files/2024_09_Bath.pdf)
 
 ## Delivered
   * IMS annual meeting 2024\\
