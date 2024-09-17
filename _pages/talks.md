@@ -14,11 +14,11 @@ author_profile: true
     [Conference](https://www.aimsconference.org/conferences/2024/index.html)
   * Probability Seminar\\
     *University of Durham* (Oct 2024)
+
+## Delivered
   * Workshop: Stochastic Geometry in Action\\
     *University of Bath* (Sep 2024)\\
     [Worshop webpage](https://sites.google.com/view/stochasticgeometryinaction/), [Slides](/files/2024_09_Bath.pdf)
-
-## Delivered
   * IMS annual meeting 2024\\
     *Queen's University Belfast* (Aug 2024)\\
     [Meeting webpage](http://ims2024.martinmathieu.net/), [Slides](/files/2024_08_Belfast.pdf)
