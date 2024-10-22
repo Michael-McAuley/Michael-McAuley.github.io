@@ -7,7 +7,7 @@ author_profile: true
 
 ## Forthcoming
   * Stochastic Geometry Days 2025\\
-    *Universit\'e Grenoble Alpes* (Jun 2025)
+    *Université Grenoble Alpes* (Jun 2025)
   * PRIN GRAFIA (Geometry of RAndom FIelds and Applications)\\
     *Scuola Normale Superiore di Pisa* (Jun 2025)\\
     [Conference](https://sites.google.com/unimib.it/prin2022grafia/conference)
