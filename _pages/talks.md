@@ -6,12 +6,11 @@ author_profile: true
 ---
 
 ## Forthcoming
+  * Stochastic Geometry Days 2025\\
+    *Universit\'e Grenoble Alpes* (Jun 2025)
   * PRIN GRAFIA (Geometry of RAndom FIelds and Applications)\\
     *Scuola Normale Superiore di Pisa* (Jun 2025)\\
     [Conference](https://sites.google.com/unimib.it/prin2022grafia/conference)
-  * AIMS Conference 2024\\
-    *NYU Abu Dhabi* (Dec 2024)\\
-    [Conference](https://www.aimsconference.org/conferences/2024/index.html)
   * Probability Seminar\\
     *University of Durham* (Oct 2024)
 
