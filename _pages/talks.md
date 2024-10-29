@@ -11,11 +11,11 @@ author_profile: true
   * PRIN GRAFIA (Geometry of RAndom FIelds and Applications)\\
     *Scuola Normale Superiore di Pisa* (Jun 2025)\\
     [Conference](https://sites.google.com/unimib.it/prin2022grafia/conference)
+
+## Delivered
   * Probability Seminar\\
     *University of Durham* (Oct 2024)\\
     [Slides](/files/2024_10_Durham.pdf)
-
-## Delivered
   * Workshop: Stochastic Geometry in Action\\
     *University of Bath* (Sep 2024)\\
     [Worshop webpage](https://sites.google.com/view/stochasticgeometryinaction/), [Slides](/files/2024_09_Bath.pdf)
