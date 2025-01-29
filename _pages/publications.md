@@ -18,6 +18,10 @@ author_profile: true
 
 ## Preprints
 <ol reversed>
+  <li><b>Limit theorems for the number of sign and level-set clusters of the Gaussian free field</b><br>
+          Submitted<br>
+          Michael McAuley, Stephen Muirhead<br>
+          <a href = "https://doi.org/10.48550/arXiv.2501.14707">Preprint</a></li>
   <li><b>Three central limit theorems for the unbounded excursion component of a Gaussian field</b><br>
           Submitted<br>
           Michael McAuley<br>
