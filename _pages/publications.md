@@ -38,7 +38,7 @@ author_profile: true
 ## Publications
 <ol reversed>
   <li><b>A covariance formula for the number of excursion set components of Gaussian fields and applications</b><br>
-      <i>To appear in Annales de l'Institut Henri Poincaré</i><br>
+      <i>Annales de l'Institut Henri Poincaré (2025)</i><br>
       Dmitry Beliaev, Michael McAuley, Stephen Muirhead<br>
       [Published PDF](/files/2025_covariance_formula.pdf), <a href = "https://doi.org/10.1214/23-AIHP1430">Published version<\a>, <a href = "https://arxiv.org/abs/2303.07823">Preprint</a></li>
   <li><b>A central limit theorem for the number of excursion set components of Gaussian fields</b><br>
