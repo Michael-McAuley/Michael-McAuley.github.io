@@ -45,11 +45,11 @@ author_profile: true
   <li><b>A central limit theorem for the number of excursion set components of Gaussian fields</b><br>
       <i>Annals of Probability (2024)</i><br>
       Dmitry Beliaev, Michael McAuley, Stephen Muirhead<br>
-      <a href = "https://doi.org/10.1214/23-AOP1672">Published version</a>, <a href = "https://arxiv.org/abs/2205.09085">Preprint</a></li>
+      <a href = "/files/2024_clt.pdf">Published PDF</a>, <a href = "https://doi.org/10.1214/23-AOP1672">Published version</a>, <a href = "https://arxiv.org/abs/2205.09085">Preprint</a></li>
   <li><b>Fluctuations of the number of excursion sets of planar Gaussian fields</b><br>
       <i>Probability and Mathematical Physics (2022)</i><br>
       Dmitry Beliaev, Michael McAuley, Stephen Muirhead<br>
-      <a href = "https://doi.org/10.2140/pmp.2022.3.105">Published version</a>, <a href = "https://arxiv.org/abs/1908.10708">Preprint</a></li>
+      <a href = "/files/2022_fluctuations.pdf">Published PDF</a>, <a href = "https://doi.org/10.2140/pmp.2022.3.105">Published version</a>, <a href = "https://arxiv.org/abs/1908.10708">Preprint</a></li>
   <li><b>Smoothness and monotonicity of the excursion set density of planar Gaussian fields</b><br>
       <i>Electronic Journal of Probability (2020)</i><br>
       Dmitry Beliaev, Michael McAuley, Stephen Muirhead<br>
