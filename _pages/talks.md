@@ -14,7 +14,7 @@ author_profile: true
   * Probability Seminar\\
     *Université du Luxembourg* (May 2025)
   * Probability Seminar\\
-    *University College Dublin* (2025)
+    *University College Dublin* (Apr 2025)
 
 ## Delivered
   * Probability Seminar\\
