@@ -187,6 +187,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
+  math_engine: mathjax
   input: GFM
   hard_wrap: false
   auto_ids: true
@@ -195,6 +196,8 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  syntax_highlighter_opts:
+    disable: true
 
 
 # Collections
@@ -209,6 +212,9 @@ collections:
   #  output: true
   #  permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  images:
     output: true
     permalink: /:collection/:path/
 
@@ -268,6 +274,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 
 # Sass/SCSS
