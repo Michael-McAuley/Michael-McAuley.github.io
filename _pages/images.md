@@ -6,6 +6,12 @@ author_profile: true
 ---
 # Phase transitions
 
+Part of my work concerns the percolative properties of Gaussian fields. A nice (open access) survey of this topic can be found [here](https://doi.org/10.1214/23-PS24).
+
+The most fundamental result in this area, is the occurrence of a phase transition: for a given field $f$ (satisfying appropriate assumptions) there is a critical level $\ell_c$ such that with probability one
+    * for all $\ell>\ell_c$, the excursion set $\lbrace f\geq\ell\rbrace$ contains only bounded components, and
+    * for all $\ell<\ell_c$, the excursion set $\lbrace f\geq\ell\rbrace$ contains a unique unbounded component.
+
 The following two graphics illustrate the phase transition for the planar Gaussian field $f$ with covariance function
 
 $$\mathrm{Cov}[f(x),f(y)]=\exp\left(-\frac{\lvert x-y\rvert^2}{2}\right).$$
