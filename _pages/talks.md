@@ -14,11 +14,11 @@ author_profile: true
     [Conference](https://sites.google.com/unimib.it/prin2022grafia/conference)
   * Probability Seminar\\
     *Université du Luxembourg* (May 2025)
+  
+## Delivered
   * Probability Seminar\\
     *University College Dublin* (Apr 2025)\\
     [Slides](/files/2025_04_UCD.pdf)
-
-## Delivered
   * Probability Seminar\\
     *University of Durham* (Oct 2024)\\
     [Slides](/files/2024_10_Durham.pdf)
