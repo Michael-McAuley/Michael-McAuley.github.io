@@ -12,7 +12,7 @@ author_profile: true
   * PRIN GRAFIA (Geometry of RAndom FIelds and Applications)\\
     *Scuola Normale Superiore di Pisa* (Jun 2025)\\
     [Conference](https://sites.google.com/unimib.it/prin2022grafia/conference)
-  * Probability Seminar\\
+  * Probability & Statistics Seminar\\
     *Université du Luxembourg* (May 2025)
   
 ## Delivered
