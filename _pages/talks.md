@@ -17,7 +17,7 @@ author_profile: true
 ## Delivered
  * Probability & Statistics Seminar\\
     *Université du Luxembourg* (May 2025)\\
-    [Slides](/files/2025_05_Luxembourg.pdf)\\
+    [Slides](/files/2025_05_Luxembourg.pdf)
   * Probability Seminar\\
     *University College Dublin* (Apr 2025)\\
     [Slides](/files/2025_04_UCD.pdf)
