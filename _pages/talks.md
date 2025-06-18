@@ -11,7 +11,7 @@ author_profile: true
     [Conference](https://geosto25.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en)
   * PRIN GRAFIA (Geometry of RAndom FIelds and Applications)\\
     *Scuola Normale Superiore di Pisa* (Jun 2025)\\
-    [Conference](https://sites.google.com/unimib.it/prin2022grafia/conference)
+    [Conference](https://sites.google.com/unimib.it/prin2022grafia/conference), [Slides](/files/2025_06_Cortona.pdf)
  
   
 ## Delivered
