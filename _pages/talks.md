@@ -8,7 +8,7 @@ author_profile: true
 ## Forthcoming
   * Stochastic Geometry Days 2025\\
     *Université Grenoble Alpes* (Jun 2025)\\
-    [Conference](https://geosto25.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en)
+    [Conference](https://geosto25.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en), [Slides](/files/2025_06_Grenoble)
 
 
 ## Delivered
