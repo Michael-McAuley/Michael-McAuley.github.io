@@ -5,13 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Forthcoming
+%## Forthcoming
+
+## Delivered
   * Stochastic Geometry Days 2025\\
     *Université Grenoble Alpes* (Jun 2025)\\
     [Conference](https://geosto25.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en), [Slides](/files/2025_06_Grenoble.pdf)
-
-
-## Delivered
   * PRIN GRAFIA (Geometry of RAndom FIelds and Applications)\\
     *Scuola Normale Superiore di Pisa* (Jun 2025)\\
     [Conference](https://sites.google.com/unimib.it/prin2022grafia/conference), [Slides](/files/2025_06_Cortona.pdf)
