@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-%## Forthcoming
-
 ## Delivered
   * Stochastic Geometry Days 2025\\
     *Université Grenoble Alpes* (Jun 2025)\\
