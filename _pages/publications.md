@@ -22,10 +22,6 @@ author_profile: true
           Submitted<br>
           Michael McAuley, Stephen Muirhead<br>
           <a href = "https://doi.org/10.48550/arXiv.2501.14707">Preprint</a></li>
-  <li><b>Three central limit theorems for the unbounded excursion component of a Gaussian field</b><br>
-          To appear in <i>Annals of Applied Probability</i><br>
-          Michael McAuley<br>
-          <a href = "https://doi.org/10.48550/arXiv.2403.03033">Preprint</a></li>
   <li><b>Conformal welding of independent Gaussian multiplicative chaos measures</b><br>
           Submitted<br>
           Antti Kupiainen, Michael McAuley, Eero Saksman<br>
@@ -38,6 +34,10 @@ author_profile: true
 
 ## Publications
 <ol reversed>
+  <li><b>Three central limit theorems for the unbounded excursion component of a Gaussian field</b><br>
+          To appear in <i>Annals of Applied Probability</i><br>
+          Michael McAuley<br>
+          <a href = "https://doi.org/10.48550/arXiv.2403.03033">Preprint</a></li>
   <li><b>A covariance formula for the number of excursion set components of Gaussian fields and applications</b><br>
       <i>Annales de l'Institut Henri Poincaré (2025)</i><br>
       Dmitry Beliaev, Michael McAuley, Stephen Muirhead<br>
