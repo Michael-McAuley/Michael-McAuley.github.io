@@ -23,7 +23,7 @@ author_profile: true
           Michael McAuley, Stephen Muirhead<br>
           <a href = "https://doi.org/10.48550/arXiv.2501.14707">Preprint</a></li>
   <li><b>Three central limit theorems for the unbounded excursion component of a Gaussian field</b><br>
-          Submitted<br>
+          To appear in <i>Annals of Applied Probability</i><br>
           Michael McAuley<br>
           <a href = "https://doi.org/10.48550/arXiv.2403.03033">Preprint</a></li>
   <li><b>Conformal welding of independent Gaussian multiplicative chaos measures</b><br>
