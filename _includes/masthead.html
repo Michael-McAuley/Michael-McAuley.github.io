@@ -1,0 +1,50 @@
+{% include base_path %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button aria-label="Toggle navigation"><div class="navicon"></div></button>
+
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            <a href="{{ base_path }}/">{{ site.title }}</a>
+          </li>
+
+          {%- if site.teaching_enabled == false -%}
+            {%- assign teaching_on = false -%}
+          {%- else -%}
+            {%- assign teaching_on = true -%}
+          {%- endif -%}
+
+          {%- for link in site.data.navigation.main -%}
+            {%- assign t_title = link.title | strip -%}
+            {%- assign t_url   = link.url   | strip -%}
+
+            {%- assign is_teaching = false -%}
+            {%- if t_title == 'Teaching' or t_url == '/teaching' or t_url == '/teaching/' -%}
+              {%- assign is_teaching = true -%}
+            {%- endif -%}
+
+            {%- if is_teaching and teaching_on != true -%}
+              {%- continue -%}
+            {%- endif -%}
+
+            {%- if t_url contains 'http' -%}
+              {%- assign domain = '' -%}
+            {%- else -%}
+              {%- assign domain = base_path -%}
+            {%- endif -%}
+
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ t_url }}">{{ t_title }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+
+
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>

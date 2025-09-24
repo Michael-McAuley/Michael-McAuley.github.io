@@ -1,0 +1,9 @@
+Item,Quantity,Price_per_Unit,Supplier
+Apples,10.0,0.5,Farm A
+Bananas,25.0,0.3,Farm B
+Oranges,30.0,0.75,Farm A
+Pears,15.0,1.2,
+Grapes,40.0,2.0,Farm C
+Mangoes,,1.5,Farm B
+Blueberries,50.0,,Farm A
+Strawberries,,2.5,Farm C
