@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-Test
+
 ## Delivered
   * Stochastic Geometry Days 2025\\
     *Université Grenoble Alpes* (Jun 2025)\\
