@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Forthcoming
+  * Stochastic Analysis and Mathematical Finance Seminar\\
+    *Oxford University* (Mar 2026)\\
+    [Seminar page](https://www.maths.ox.ac.uk/events/list/3655)
+
 ## Delivered
   * Stochastic Geometry Days 2025\\
     *Université Grenoble Alpes* (Jun 2025)\\
