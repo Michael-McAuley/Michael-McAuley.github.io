@@ -16,8 +16,11 @@ author_profile: true
 {% endfor %}-->
 
 
-## Preprints
-<ol reversed>
+## Preprints/Under review
+<ol reversed start = "10">
+  <li><b>Limit theorems for non-local functionals of smooth Gaussian fields via quasi-association</b><br>
+          Michael McAuley<br>
+          <a href = "https://arxiv.org/abs/2601.04002">Preprint</a></li>
   <li><b>Limit theorems for the number of sign and level-set clusters of the Gaussian free field</b><br>
           Submitted<br>
           Michael McAuley, Stephen Muirhead<br>
