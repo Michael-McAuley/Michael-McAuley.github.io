@@ -25,10 +25,6 @@ author_profile: true
           Submitted<br>
           Michael McAuley, Stephen Muirhead<br>
           <a href = "https://doi.org/10.48550/arXiv.2501.14707">Preprint</a></li>
-  <li><b>Conformal welding of independent Gaussian multiplicative chaos measures</b><br>
-          Submitted<br>
-          Antti Kupiainen, Michael McAuley, Eero Saksman<br>
-          <a href = "https://arxiv.org/abs/2305.18062">Preprint</a></li>
   <li><b>HLAfreq: Download and combine HLA allele frequency data</b><br>
           Michael McAuley, David Wells<br>
           <a href = "https://doi.org/10.1101/2023.09.15.557761">Preprint</a></li>
@@ -37,6 +33,10 @@ author_profile: true
 
 ## Publications
 <ol reversed>
+  <li><b>Conformal welding of independent Gaussian multiplicative chaos measures</b><br>
+          To appear in <i>Journal of the European Mathematical Society</i><br>
+          Antti Kupiainen, Michael McAuley, Eero Saksman<br>
+          <a href = "https://arxiv.org/abs/2305.18062">Preprint</a></li>
   <li><b>Three central limit theorems for the unbounded excursion component of a Gaussian field</b><br>
           To appear in <i>Annals of Applied Probability</i><br>
           Michael McAuley<br>
