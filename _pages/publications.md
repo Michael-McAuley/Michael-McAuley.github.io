@@ -38,7 +38,7 @@ author_profile: true
           Antti Kupiainen, Michael McAuley, Eero Saksman<br>
           <a href = "https://arxiv.org/abs/2305.18062">Preprint</a></li>
   <li><b>Three central limit theorems for the unbounded excursion component of a Gaussian field</b><br>
-          <i>Annals of Applied Probability</i><br>
+          <i>Annals of Applied Probability (2026)</i><br>
           Michael McAuley<br>
           <a href = "/files/2026_three_CLTs.pdf">Published PDF</a>, <a href = "https://doi.org/10.1214/25-AAP2228">Published version</a>, <a href = "https://doi.org/10.48550/arXiv.2403.03033">Preprint</a></li>
   <li><b>A covariance formula for the number of excursion set components of Gaussian fields and applications</b><br>
