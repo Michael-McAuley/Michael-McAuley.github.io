@@ -6,9 +6,12 @@ author_profile: true
 ---
 
 ## Forthcoming
+  * Stochastic Processes and Applications\\
+    *Cornell University* (Jun 2026)\\
+    [Conference page](https://events.ces.scl.cornell.edu/event/7d2eb9fb-e4e1-4163-ab03-bb8419050b73/summary?tm=c314K3S6DBKCVokeOwfM4-e56vCGWx3RSuAt0fFOZu0)
   * Stochastic Analysis and Mathematical Finance Seminar\\
     *Oxford University* (Mar 2026)\\
-    [Seminar page](https://www.maths.ox.ac.uk/events/list/3655)
+    [Seminar page](https://www.maths.ox.ac.uk/events/list/3655), [Slides](/files/2026_03_Oxford.pdf)
 
 ## Delivered
   * Stochastic Geometry Days 2025\\
