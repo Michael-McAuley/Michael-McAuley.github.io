@@ -22,7 +22,6 @@ author_profile: true
           Michael McAuley<br>
           <a href = "https://arxiv.org/abs/2601.04002">Preprint</a></li>
   <li><b>Limit theorems for the number of sign and level-set clusters of the Gaussian free field</b><br>
-          Submitted<br>
           Michael McAuley, Stephen Muirhead<br>
           <a href = "https://doi.org/10.48550/arXiv.2501.14707">Preprint</a></li>
   <li><b>HLAfreq: Download and combine HLA allele frequency data</b><br>
@@ -34,9 +33,9 @@ author_profile: true
 ## Publications
 <ol reversed>
   <li><b>Conformal welding of independent Gaussian multiplicative chaos measures</b><br>
-          To appear in <i>Journal of the European Mathematical Society</i><br>
+          <i>Journal of the European Mathematical Society (2026)</i><br>
           Antti Kupiainen, Michael McAuley, Eero Saksman<br>
-          <a href = "https://arxiv.org/abs/2305.18062">Preprint</a></li>
+          <a href = "https://doi.org/10.4171/jems/1777">Published version</a>, <a href = "https://arxiv.org/abs/2305.18062">Preprint</a></li>
   <li><b>Three central limit theorems for the unbounded excursion component of a Gaussian field</b><br>
           <i>Annals of Applied Probability (2026)</i><br>
           Michael McAuley<br>
