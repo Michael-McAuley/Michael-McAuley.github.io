@@ -30,7 +30,7 @@ author_profile: true
 ## Publications
 <ol reversed>
   <li><b>HLAfreq: Download and combine HLA allele frequency data</b><br>
-          <i>Journal of Open Source Software</i><br>
+          <i>Journal of Open Source Software (2026)</i><br>
           David Wells, Michael McAuley<br>
           <a href = "https://doi.org/10.21105/joss.10122">Published version</a>, <a href = "https://doi.org/10.1101/2023.09.15.557761">Preprint (additional detail)</a></li>
   <li><b>Conformal welding of independent Gaussian multiplicative chaos measures</b><br>
