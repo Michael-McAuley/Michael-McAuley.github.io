@@ -24,14 +24,15 @@ author_profile: true
   <li><b>Limit theorems for the number of sign and level-set clusters of the Gaussian free field</b><br>
           Michael McAuley, Stephen Muirhead<br>
           <a href = "https://doi.org/10.48550/arXiv.2501.14707">Preprint</a></li>
-  <li><b>HLAfreq: Download and combine HLA allele frequency data</b><br>
-          Michael McAuley, David Wells<br>
-          <a href = "https://doi.org/10.1101/2023.09.15.557761">Preprint</a></li>
 </ol>
 
 
 ## Publications
 <ol reversed>
+  <li><b>HLAfreq: Download and combine HLA allele frequency data</b><br>
+          <i>Journal of Open Source Software</i><br>
+          David Wells, Michael McAuley<br>
+          <a href = "https://doi.org/10.21105/joss.10122">Published version>, <a href = "https://doi.org/10.1101/2023.09.15.557761">Preprint (additional detail)</a></li>
   <li><b>Conformal welding of independent Gaussian multiplicative chaos measures</b><br>
           <i>Journal of the European Mathematical Society (2026)</i><br>
           Antti Kupiainen, Michael McAuley, Eero Saksman<br>
