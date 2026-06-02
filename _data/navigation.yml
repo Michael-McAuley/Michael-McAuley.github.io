@@ -3,7 +3,7 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Academic Talks"
+  - title: "Academic talks"
     url: /talks/    
 
   - title: "Images"
@@ -12,7 +12,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Public Engagement"
+  - title: "Public engagement"
     url: /engagement/
         
   #- title: "Blog Posts"

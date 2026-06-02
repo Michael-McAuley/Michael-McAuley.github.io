@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Public Engagement"
+title: "Public engagement"
 permalink: /engagement/
 author_profile: true
 ---
