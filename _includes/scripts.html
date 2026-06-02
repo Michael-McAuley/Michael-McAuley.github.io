@@ -2,3 +2,15 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const links = document.querySelectorAll('a[href^="http"]');
+
+  links.forEach(function (link) {
+    if (link.hostname !== window.location.hostname) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    }
+  });
+});
+</script>
