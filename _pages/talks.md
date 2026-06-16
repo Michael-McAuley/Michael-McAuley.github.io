@@ -8,7 +8,7 @@ author_profile: true
 ## Forthcoming
   * Stochastic Processes and Applications\\
     *Cornell University* (Jun 2026)\\
-    [Conference page](https://events.ces.scl.cornell.edu/event/7d2eb9fb-e4e1-4163-ab03-bb8419050b73/summary?tm=c314K3S6DBKCVokeOwfM4-e56vCGWx3RSuAt0fFOZu0)
+    [Conference page](https://events.ces.scl.cornell.edu/event/7d2eb9fb-e4e1-4163-ab03-bb8419050b73/summary?tm=c314K3S6DBKCVokeOwfM4-e56vCGWx3RSuAt0fFOZu0), [Slides](/files/2026_06_Cornell.pdf)
 
 ## Delivered
   * Stochastic Analysis and Mathematical Finance Seminar\\
