@@ -5,7 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-%## Forthcoming
 
 ## Delivered
   * Stochastic Processes and Applications\\
