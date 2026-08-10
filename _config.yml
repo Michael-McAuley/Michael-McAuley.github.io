@@ -24,8 +24,7 @@ author:
   avatar           : "profile_picture.jpg"
   name             : "Michael McAuley"
   pronouns         : # example: "she/her"  
-  bio              : "I am a researcher in the area of probability theory. I am currently an assistant lecturer at Technological University Dublin."
-  location         : "Dublin, Ireland"
+  bio              : "I am a researcher with interests in pure mathematics, applied statistics and artificial intelligence/machine learning."
   employer         : "Technological University Dublin"
   uri              : # URL
   email            : "michael.mcauley@tudublin.ie" 
