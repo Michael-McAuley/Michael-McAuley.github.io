@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Phase transitions
 
-Part of my work concerns the percolative properties of Gaussian fields. A nice (open access) survey of this topic can be found [here](https://doi.org/10.1214/23-PS24).
+Part of my work concerns the percolative properties of Gaussian fields. A nice (open access) survey of this topic can be found [here](https://doi.org/10.1214/23-PS24). A small python module for producing images of Gaussian field excursion sets can be found [here](https://github.com/Michael-McAuley/gaussian-field-excursions).
 
 The most fundamental result in this area, is the occurrence of a **phase transition**. That is, for a given field $f$ (satisfying appropriate assumptions) there is a critical level $\ell_c$ such that with probability one:
 
