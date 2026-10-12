@@ -21,26 +21,27 @@ author_profile: true
   <li><b>Limit theorems for non-local functionals of smooth Gaussian fields via quasi-association</b><br>
           Michael McAuley<br>
           <a href = "https://arxiv.org/abs/2601.04002">Preprint</a></li>
-  <li><b>Limit theorems for the number of sign and level-set clusters of the Gaussian free field</b><br>
-          Michael McAuley, Stephen Muirhead<br>
-          <a href = "https://doi.org/10.48550/arXiv.2501.14707">Preprint</a></li>
 </ol>
 
 
 ## Publications
 <ol reversed>
+  <li><b>Limit theorems for the number of sign and level-set clusters of the Gaussian free field</b><br>
+      <i>Annals of Probability (To appear)</i><br>
+      Michael McAuley, Stephen Muirhead<br>
+      <a href = "https://doi.org/10.48550/arXiv.2501.14707">Preprint</a></li>
   <li><b>HLAfreq: Download and combine HLA allele frequency data</b><br>
-          <i>Journal of Open Source Software (2026)</i><br>
-          David Wells, Michael McAuley<br>
-          <a href = "https://doi.org/10.21105/joss.10122">Published version</a>, <a href = "https://doi.org/10.1101/2023.09.15.557761">Preprint (additional detail)</a></li>
+      <i>Journal of Open Source Software (2026)</i><br>
+      David Wells, Michael McAuley<br>
+      <a href = "https://doi.org/10.21105/joss.10122">Published version</a>, <a href = "https://doi.org/10.1101/2023.09.15.557761">Preprint (additional detail)</a></li>
   <li><b>Conformal welding of independent Gaussian multiplicative chaos measures</b><br>
-          <i>Journal of the European Mathematical Society (2026)</i><br>
-          Antti Kupiainen, Michael McAuley, Eero Saksman<br>
-          <a href = "https://doi.org/10.4171/jems/1777">Published version</a>, <a href = "https://arxiv.org/abs/2305.18062">Preprint</a></li>
+      <i>Journal of the European Mathematical Society (2026)</i><br>
+      Antti Kupiainen, Michael McAuley, Eero Saksman<br>
+      <a href = "https://doi.org/10.4171/jems/1777">Published version</a>, <a href = "https://arxiv.org/abs/2305.18062">Preprint</a></li>
   <li><b>Three central limit theorems for the unbounded excursion component of a Gaussian field</b><br>
-          <i>Annals of Applied Probability (2026)</i><br>
-          Michael McAuley<br>
-          <a href = "/files/2026_three_CLTs.pdf">Published PDF</a>, <a href = "https://doi.org/10.1214/25-AAP2228">Published version</a>, <a href = "https://doi.org/10.48550/arXiv.2403.03033">Preprint</a></li>
+      <i>Annals of Applied Probability (2026)</i><br>
+      Michael McAuley<br>
+      <a href = "/files/2026_three_CLTs.pdf">Published PDF</a>, <a href = "https://doi.org/10.1214/25-AAP2228">Published version</a>, <a href = "https://doi.org/10.48550/arXiv.2403.03033">Preprint</a></li>
   <li><b>A covariance formula for the number of excursion set components of Gaussian fields and applications</b><br>
       <i>Annales de l'Institut Henri Poincaré (2025)</i><br>
       Dmitry Beliaev, Michael McAuley, Stephen Muirhead<br>
